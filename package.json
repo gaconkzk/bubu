@@ -28,7 +28,7 @@
     "pngjs": "^3.0.0",
     "promise": "^7.1.1",
     "setimmediate": "^1.0.5",
-    "underscore": "^1.8.3",
+    "underscore": "^1.12.1",
     "ws": "^7.3.1"
   },
   "devDependencies": {
